@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#search{
+    margin: 0 auto;
+}
+#statement,#output{
+    min-height: 45px;
+    width: 100%;
+}
+footer{
+    background-color: rgb(42, 42, 104);
+    color: white;
+}
+header{
+    background-color: rgb(42, 42, 104);
+    color: white;
+}
+#navbar{
+    margin-left: 200px;
+}
